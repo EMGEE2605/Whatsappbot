@@ -7,7 +7,7 @@ client = Client()
 PHONE_NUMBER = "+2348173854807"
 
 #Define AUTH_CODE
-AUTH_CODE = "260805"
+AUTH_CODE = "000000"
 
 # Define the bot's name
 BOT_NAME = "Jessy"
